@@ -1,0 +1,17 @@
+h1 {
+	background: black;
+	color: white;
+	text-decoration: bold
+	text-align: center;
+}
+
+p {
+	background-color: gray
+	color: black;
+	text-align: center;
+
+}
+.ImageContainer{
+background-size: 100%
+text-align: center;
+}
